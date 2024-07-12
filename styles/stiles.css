@@ -1,0 +1,258 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 180px;
+    padding-top: 20px;  
+}
+
+.b{
+    color: #796d6d;
+    text-decoration: none;
+}
+
+span:not(nav){
+    color: #ffffff;;
+}
+
+ .lenguaje{
+    display: flex;
+}
+
+.items{
+    color: #fff4f4;
+    align-content: center;
+    align-self: flex-end;
+    width: 150px;
+    height: 50px;
+    border: 50%;
+    padding-left: 20%;
+    background: -webkit-linear-gradient(45deg, #6b0c91,#195df0 50%);
+    background-clip:border-box; 
+    text-decoration: none;   
+}
+
+.v{
+    height:90px; 
+    width: 100%;
+    background-color: #170f24;
+}
+
+
+.d{
+    height:500px; 
+    width: 100%;
+    background-color: #120527;
+}
+.img{
+    height:500px; 
+    width: 50%;
+    padding-left: 50%; 
+    margin-top: -29.6%;
+    
+}
+
+.texto{
+    position: absolute;
+    top: 35%; 
+    left: 8%;
+    font-size: 50px;
+    color: white;
+}
+
+.p{
+    position: absolute;
+    top: 55%; 
+    left: 8%;
+    color: white;
+}
+
+.form {
+    width: 20%;
+    padding: 20px 0;
+    border-color:#796d6d;
+    background-color: #120527;
+    margin-left: 7%;
+    margin-top: 25%;  
+}
+
+.boton {
+    border: none;
+    width: 10%;
+    height: 40px;
+    color: rgb(245, 2, 172);
+    background-color: white; 
+    margin-left: -18%;
+}
+
+.boto {
+    width: 5%;
+    height: 40px;
+    color: white;
+    background-color: #120527;
+    border-color:#796d6d; 
+}
+
+.ti{
+    color: rgb(245, 2, 172);
+    font-size: 300%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.img2{
+    height:30%; 
+    width: 30%;
+    padding-left: 15%; 
+}
+
+.h1{
+    color:rgb(209, 5, 148) ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 55%; 
+    margin-top: -19%;
+}
+
+ .p2{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 55%; 
+    margin-top: -1%;
+} 
+
+ .p3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 55%; 
+    margin-top: -1%;
+} 
+
+.h2{
+    color: rgb(245, 2, 172);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 55%; 
+    margin-top: 2%;
+}
+
+.chu{
+    height:15px; 
+    width: 4%;
+}
+
+.d2{
+    height:800px; 
+    width: 100%;
+    background-color: #120527;
+}
+
+.ti2{
+    color:white;
+    font-size: 300%;
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    padding-top: 3%;
+}
+
+.p4{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-left: 30%; 
+    color: white;
+    font-size: 75%;
+    width: 50%; 
+}
+
+
+section{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16px;
+}
+
+article{
+    
+    height: 90px;
+    width: 100%;
+    background-color: rgb(209, 209, 209);
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    margin-top: -5%;
+} 
+
+.num{
+    font-size: 250%;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.nu{
+    font-size: 200%;
+}
+
+.box{
+    background-color: white;
+    width: 100%;
+    height: 480px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.container{
+    height: clamp(480px,480px,480px);
+    width: 290px;
+    box-shadow: 4px 4px 8px rgb(0, 0, 0);
+}
+
+.p9{
+    margin-top: -5%;
+}
+
+.p6{
+    margin-top: -5%;
+    color: rgb(245, 2, 172);
+}
+
+.r{
+    margin-top: -1%; 
+}
+
+.estrella{
+    height:20px; 
+    width: 11%;
+}
+
+.chu1{
+    height:20px; 
+    width: 11%;
+}
+
+.chu2{
+    height:20px; 
+    width: 30%;
+}
+
+footer{
+    height:80px; 
+    width: 100%;
+    background-color:white;
+    display: flex;
+    align-items: center; 
+    justify-content: space-around;
+}
+
+.img10{
+    height:30px; 
+    width: 5%;
+    align-self: flex-end; 
+}
+
+
+
