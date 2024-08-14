@@ -181,7 +181,7 @@ h2 {
     flex-direction: column;
     align-items: center;
     text-align: center;
-    gap: 50px;
+    gap: 5px; 
     background-color: #1e162e;
 }
 
@@ -195,6 +195,7 @@ h2 {
     color: #fff;
     width: 60%;
     font-size: 17px;
+    
 }
 
 .container {
@@ -236,19 +237,16 @@ p {
 .p {
     display: flex;
     font-size: 18px;
-
     span:first-child {
         font-size: 45px;
     }
 }
 
-
-
 .wall-eyeva{
     height: 10%;
     width: 10%;
     position: relative;
-    bottom: 235px;
+    bottom: 200px;
     left: 40px;
 }
 
@@ -256,7 +254,7 @@ p {
     height: 70%;
     width: 10%;
     position: relative;
-    bottom: 235px;
+    bottom: 210px;
     left: 670px;
 }
 
@@ -265,7 +263,7 @@ p {
     width: 10%;
     position: relative;
     bottom: 40px;
-    left: 230px;
+    left: 20px;
 }
 
 ul {
@@ -646,8 +644,8 @@ footer {
         height: 20%;
         width: 25%;
         position: relative;
-        bottom: 190px;
-        left: 10px;
+        bottom: 140px;
+        left: 15px;
     }
     
     .Wall-E3{
@@ -659,11 +657,7 @@ footer {
     }
     
     .wal{
-        height: 100%;
-        width: 20%;
-        position: relative;
-        bottom: 50px;
-        left: 285px;
+        display: none;
     }
 }
 
@@ -723,7 +717,7 @@ footer {
         height: 10%;
         width: 20%;
         position: relative;
-        bottom: 245px;
+        bottom: 205px;
         left: 10px;
     }
     
