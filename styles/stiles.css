@@ -431,6 +431,18 @@ footer {
         margin: 0 10%;
     }
 
+    .wall-eyeva{
+        display: none;
+    }
+    
+    .Wall-E3{
+        display: none;
+    }
+    
+    .wal{
+        display: none;
+    }
+
     .p2 {
         font-size: 16px;
         margin: 0 10%;
@@ -488,6 +500,10 @@ footer {
 
     .c1 {
         width: 100%;
+    }
+
+    .z {
+        display: none;
     }
 }
 
@@ -626,6 +642,29 @@ footer {
     .s {
         margin-right: 5px;
     }
+    .wall-eyeva{
+        height: 20%;
+        width: 25%;
+        position: relative;
+        bottom: 190px;
+        left: 10px;
+    }
+    
+    .Wall-E3{
+        height: 80%;
+        width: 15%;
+        position: relative;
+        bottom: 170px;
+        left: 190px;
+    }
+    
+    .wal{
+        height: 100%;
+        width: 20%;
+        position: relative;
+        bottom: 50px;
+        left: 285px;
+    }
 }
 
 @media screen and (min-width:769px) and (max-width:920px) {
@@ -680,6 +719,29 @@ footer {
         font-size: 15px;
         margin: 10px 80px;
     }
+    .wall-eyeva{
+        height: 10%;
+        width: 20%;
+        position: relative;
+        bottom: 245px;
+        left: 10px;
+    }
+    
+    .Wall-E3{
+        height: 70%;
+        width: 10%;
+        position: relative;
+        bottom: 185px;
+        left: 360px;
+    }
+    
+    .wal{
+        height: 100%;
+        width: 10%;
+        position: relative;
+        bottom: 40px;
+        left: 20px;
+    }
 }
 
 @media screen and (min-width:921px) and (max-width:1279px) {
@@ -708,5 +770,29 @@ footer {
     .i {
         width: 29%;
         gap: 10px;
+    }
+
+    .wall-eyeva{
+        height: 10%;
+        width: 10%;
+        position: relative;
+        bottom: 225px;
+        left: 10px;
+    }
+    
+    .Wall-E3{
+        height: 70%;
+        width: 10%;
+        position: relative;
+        bottom: 225px;
+        left: 570px;
+    }
+    
+    .wal{
+        height: 110%;
+        width: 10%;
+        position: relative;
+        bottom: 40px;
+        left: 20px;
     }
 }
