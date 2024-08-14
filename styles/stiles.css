@@ -14,7 +14,6 @@ header {
     width: 100%;
 }
 
-
 nav {
     font-weight: 500;
     font-size: 16px;
@@ -34,7 +33,6 @@ nav ul {
 
 nav ul li {
     list-style: none;
-
 }
 
 .n {
@@ -125,7 +123,6 @@ h4 {
     background-clip: text;
     -webkit-text-fill-color: transparent;
 }
-
 
 .a2 {
     background-color: #f2f3f7;
@@ -339,12 +336,11 @@ footer {
     width: 40%;
 }
 
-
 @media screen and (min-width:352px) and (max-width:480px) {
-
     .a1 {
         height: 70vh;
     }
+
     .a1 aside {
         background-image: none;
     }
@@ -707,12 +703,10 @@ footer {
 
     .copy {
         margin: 10px 60px;
-    }
-
-    .copy {
         font-size: 15px;
         margin: 10px 80px;
     }
+
     .wall-eyeva{
         height: 10%;
         width: 20%;
